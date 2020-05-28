@@ -3,7 +3,7 @@ package javaExercises;
 public class inter {
 
 	public static void main(String[] args) {
-		String name = "cengiz alabacak";
+		String name = "esati";
 		//c1e1n1
 		System.out.println(test(name));
 
